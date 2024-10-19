@@ -44,5 +44,7 @@ The Power BI dashboard enables users to:
 **[Alvin Fernandes]**  
 (https://www.linkedin.com/in/alvin-fernandes/)  
 
+## [Download the Power BI dashboard here]
+21978543 Assignment 1 Solution.pbix
 
 
