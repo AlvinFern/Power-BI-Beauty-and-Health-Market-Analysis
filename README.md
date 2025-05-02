@@ -20,12 +20,15 @@ The data used for this analysis was sourced from an **Excel dataset** containing
 ![image](https://github.com/user-attachments/assets/8d86960b-b3fe-459c-bb01-65dc14b553e5)
    
 2. **Higher Confidence in Cosmeceuticals**: Consumers tend to have the highest confidence in cosmeceuticals, with a higher recommendation rating than the other product types.
+
 ![image](https://github.com/user-attachments/assets/8a61ae59-172c-4b4b-b0b0-dc480cf04795)
 
 3. **Spending Patterns**: Most consumers spend between $50-$100 on nutraceuticals, whereas spending on cosmeceuticals is generally lower.
-  ![image](https://github.com/user-attachments/assets/3a5e5027-a269-42bb-b206-46a4794a4d77)
 
-4. **Age Group Distribution**: The majority of respondents are under the age of 40, with 90 individuals being under 30, indicating that younger customers are driving demand for these products.
+![image](https://github.com/user-attachments/assets/3a5e5027-a269-42bb-b206-46a4794a4d77)
+
+5. **Age Group Distribution**: The majority of respondents are under the age of 40, with 90 individuals being under 30, indicating that younger customers are driving demand for these products.
+
 ![image](https://github.com/user-attachments/assets/350ba3f2-6afe-4fdd-8ea2-c6b2c2b78d70)
 
 ## Power BI Dashboard
