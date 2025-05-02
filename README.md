@@ -28,6 +28,11 @@ The Power BI dashboard enables users to:
 - Analyze **confidence and recommendation ratings** by product type.
 - View **monthly spending** patterns on cosmeceuticals, nutricosmetics, and nutraceuticals.
 
+- ![image](https://github.com/user-attachments/assets/c9a22b74-d394-4ad2-9025-56b6abf023c4)
+
+- 
+
+
 ### Dashboard Highlights
 1. **Form Breakdown by Product Type**: Shows the number of consumers for each product type and their preferred form (beverage, food, pills).
 2. **Average Confidence & Recommendation by Product Type**: Displays the average confidence consumers have in each product type along with their likelihood of recommending it.
@@ -46,5 +51,7 @@ The Power BI dashboard enables users to:
 
 ## [Download the Power BI dashboard here]
 21978543 Assignment 1 Solution.pbix
+
+
 
 
