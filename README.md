@@ -15,11 +15,18 @@ The data used for this analysis was sourced from an **Excel dataset** containing
 - **Demographic Information**: Data on customer demographics including age, gender, and state of residence.
 
 ## Key Insights
-1. **Nutraceuticals are the Most Popular**: A significant number of consumers show a preference for nutraceuticals compared to cosmeceuticals and nutricosmetics.
+1. **Nutraceuticals and Nutricosmetics are the Most Popular**: A significant number of consumers show a preference for nutraceuticals and nutricosmetics compared to cosmeceuticals.
+
+![image](https://github.com/user-attachments/assets/8d86960b-b3fe-459c-bb01-65dc14b553e5)
+   
 2. **Higher Confidence in Cosmeceuticals**: Consumers tend to have the highest confidence in cosmeceuticals, with a higher recommendation rating than the other product types.
+![image](https://github.com/user-attachments/assets/8a61ae59-172c-4b4b-b0b0-dc480cf04795)
+
 3. **Spending Patterns**: Most consumers spend between $50-$100 on nutraceuticals, whereas spending on cosmeceuticals is generally lower.
+  ![image](https://github.com/user-attachments/assets/3a5e5027-a269-42bb-b206-46a4794a4d77)
+
 4. **Age Group Distribution**: The majority of respondents are under the age of 40, with 90 individuals being under 30, indicating that younger customers are driving demand for these products.
-5. **State Interest**: Nutraceuticals see the highest demand in **New South Wales**, while cosmeceuticals are less popular in comparison across all states.
+![image](https://github.com/user-attachments/assets/350ba3f2-6afe-4fdd-8ea2-c6b2c2b78d70)
 
 ## Power BI Dashboard
 The Power BI dashboard enables users to:
@@ -29,9 +36,6 @@ The Power BI dashboard enables users to:
 - View **monthly spending** patterns on cosmeceuticals, nutricosmetics, and nutraceuticals.
 
 - ![image](https://github.com/user-attachments/assets/c9a22b74-d394-4ad2-9025-56b6abf023c4)
-
-- 
-
 
 ### Dashboard Highlights
 1. **Form Breakdown by Product Type**: Shows the number of consumers for each product type and their preferred form (beverage, food, pills).
@@ -49,8 +53,6 @@ The Power BI dashboard enables users to:
 **[Alvin Fernandes]**  
 (https://www.linkedin.com/in/alvin-fernandes/)  
 
-## [Download the Power BI dashboard here]
-21978543 Assignment 1 Solution.pbix
 
 
 
