@@ -13,8 +13,11 @@ This project analyzes the emerging "Wellness-Beauty" market in Australia, focusi
 **Key Findings**
 
 ‣ The "Inside-Out" Trend: Nutraceuticals and nutricosmetics (ingestibles) currently lead in consumer preference, signaling a shift toward holistic "beauty from within."
+
 ‣ The Confidence Gap: While ingestibles are popular, Cosmeceuticals (topical medical-grade products) hold the highest consumer confidence and recommendation ratings.
+
 ‣ The "Younger" Engine: Demand is aggressively driven by the under-40 demographic, with a significant concentration of "Early Adopters" under the age of 30.
+
 ‣ Spending Sweet Spot: The most common spending threshold is $50–$100, primarily within the nutraceutical category.
 
 **Recommendations** 
