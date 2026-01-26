@@ -87,14 +87,25 @@ The "Monthly Spending" analysis across 360 respondents shows that:
 
 ![image](https://github.com/user-attachments/assets/350ba3f2-6afe-4fdd-8ea2-c6b2c2b78d70)
 
-# Final Recommendations
+# Strategic Recommendations for Market Growth
 
-Market-Specific Launch: Focus Nutraceutical marketing in NSW and Cosmeceutical marketing in Queensland to align with existing consumer interest.
+**1. Bridging the "Trust Gap" in New South Wales**
 
-Product Development: Prioritize Food and Beverage formats for supplements, as consumers are moving away from traditional "pill" formats for beauty.
+The data indicates that while NSW has the highest volume of interest in Nutraceuticals, the recommendation scores are surprisingly low compared to topical skincare. This suggests that while customers are curious, they aren't yet convinced of the results.
 
-Target the "Under-30s": Since they are the largest demographic, marketing imagery and social media spend should be tailored to Gen Z and younger Millennials.
+We should pivot marketing in NSW to focus heavily on "Clinical Proof" and local expert endorsements. Partnering with Australian-based dermatologists to explain the science behind "beauty from within" will help convert this high curiosity into long-term brand loyalty.
 
+**2. Prioritizing "Functional Beauty" over Traditional Pills**
+
+One of the most striking findings is the preference for beverages and food-based formats among younger demographics. The traditional "pill" format is losing its appeal for daily beauty routines.
+
+I recommend shifting a portion of the R&D and inventory budget away from capsules and toward beverage-based or edible formats. Given that the under-40 group is our largest demographic, we need to meet them where they are: looking for convenience, better taste, and products that fit into a modern, fast-paced lifestyle.
+
+**3. Implementing a "High-Trust" Entry Strategy**
+
+Since Cosmeceuticals (skincare) carry the highest confidence ratings, they should serve as the "anchor" for our niche products.
+
+Instead of selling Nutricosmetics as standalone items, we should bundle them with our top-rated topical skincare products. By creating an "Inside-Out" kit priced around the $75 mark, we can leverage the trust consumers already have in skincare to lower the perceived risk of trying a new supplement category.
 
 # Dashboard Features & Functionality
 The Power BI dashboard was designed for executive-level drill-downs:
