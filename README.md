@@ -52,11 +52,11 @@ The data used for this analysis was sourced from an **Excel dataset** containing
 
 The "Product Type Interest by Different States" chart shows a clear regional winner:
 
-‣ New South Wales shows a massive spike in Nutraceuticals interest (nearly 40 consumers).
+‣ **New South Wales** shows a massive spike in **Nutraceuticals** interest (nearly 40 consumers).
 
-‣ Queensland leads in interest for Cosmeceuticals, suggesting a higher demand for topical skincare in warmer climates.
+‣ **Queensland** leads in interest for **Cosmeceuticals**, suggesting a higher demand for topical skincare in warmer climates.
 
-‣ Victoria and Western Australia show very balanced interest across all categories, making them ideal "test markets" for new product launches.
+‣ **Victoria** and **Western Australia** show very balanced interest across **all categories**, making them ideal **"test markets"** for new product launches.
 
 ![image](https://github.com/user-attachments/assets/8d86960b-b3fe-459c-bb01-65dc14b553e5)
    
