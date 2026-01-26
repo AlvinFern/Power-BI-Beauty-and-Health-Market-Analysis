@@ -70,8 +70,8 @@ Looking at the "Form Breakdown" visual:
 
 ‣ For Cosmeceuticals, the "Pills" form is almost non-existent, as expected, but it highlights a clear consumer preference for topical application in this category.
 
+<img width="1181" height="591" alt="image" src="https://github.com/user-attachments/assets/49e0755d-1a7e-4ddd-9ccb-4fbc2fc143ae" />
 
-![image](https://github.com/user-attachments/assets/8a61ae59-172c-4b4b-b0b0-dc480cf04795)
 
 **3. The Spending Threshold**
 
