@@ -58,13 +58,28 @@ The "Product Type Interest by Different States" chart shows a clear regional win
 
 ‣ **Victoria** and **Western Australia** show very balanced interest across **all categories**, making them ideal **"test markets"** for new product launches.
 
+
 ![image](https://github.com/user-attachments/assets/8d86960b-b3fe-459c-bb01-65dc14b553e5)
    
-2. **Higher Confidence in Cosmeceuticals**: Consumers tend to have the highest confidence in cosmeceuticals, with a higher recommendation rating than the other product types.
+
+**2. Form Preference: Moving Beyond Pills**
+
+Looking at the "Form Breakdown" visual:
+
+‣ For Nutraceuticals, the Beverage and Food forms are significantly more popular than pills.
+
+‣ For Cosmeceuticals, the "Pills" form is almost non-existent, as expected, but it highlights a clear consumer preference for topical application in this category.
+
 
 ![image](https://github.com/user-attachments/assets/8a61ae59-172c-4b4b-b0b0-dc480cf04795)
 
-3. **Spending Patterns**: Most consumers spend between $50-$100 on nutraceuticals, whereas spending on cosmeceuticals is generally lower.
+**3. The Spending Threshold**
+
+The "Monthly Spending" analysis across 360 respondents shows that:
+
+‣ The $50–$100 range is the dominant spending tier for all three categories.
+
+‣ Nutricosmetics have the highest number of consumers willing to spend in that mid-to-high tier, making it the most "profitable" niche per consumer.
 
 ![image](https://github.com/user-attachments/assets/3a5e5027-a269-42bb-b206-46a4794a4d77)
 
@@ -72,21 +87,26 @@ The "Product Type Interest by Different States" chart shows a clear regional win
 
 ![image](https://github.com/user-attachments/assets/350ba3f2-6afe-4fdd-8ea2-c6b2c2b78d70)
 
-## Power BI Dashboard
-The Power BI dashboard enables users to:
-- Filter data by **product type**, **spending range**, **age group**, **gender**, and **state**.
-- Explore **consumer preferences** for product types across different regions and demographic groups.
-- Analyze **confidence and recommendation ratings** by product type.
-- View **monthly spending** patterns on cosmeceuticals, nutricosmetics, and nutraceuticals.
+# Final Recommendations
+
+Market-Specific Launch: Focus Nutraceutical marketing in NSW and Cosmeceutical marketing in Queensland to align with existing consumer interest.
+
+Product Development: Prioritize Food and Beverage formats for supplements, as consumers are moving away from traditional "pill" formats for beauty.
+
+Target the "Under-30s": Since they are the largest demographic, marketing imagery and social media spend should be tailored to Gen Z and younger Millennials.
+
+
+# Dashboard Features & Functionality
+The Power BI dashboard was designed for executive-level drill-downs:
+
+• Total Respondents Tracker: Instantly updates to show the sample size (360) based on applied filters.
+
+• Multi-State Slicer: Allows for quick comparison between states like NSW and Victoria.
+
+• Dual-Axis Sentiment Chart: Tracks "Average Confidence" (Bars) against "Recommendation Score" (Line) to identify which products are trusted versus which are just popular.
 
 - ![image](https://github.com/user-attachments/assets/c9a22b74-d394-4ad2-9025-56b6abf023c4)
 
-### Dashboard Highlights
-1. **Form Breakdown by Product Type**: Shows the number of consumers for each product type and their preferred form (beverage, food, pills).
-2. **Average Confidence & Recommendation by Product Type**: Displays the average confidence consumers have in each product type along with their likelihood of recommending it.
-3. **Monthly Spending by Product Type**: Highlights the monthly spending of consumers for each product type across different spending categories.
-4. **Age Group Distribution**: Shows the distribution of respondents by age, with a focus on younger consumers.
-5. **Product Type Interest by Different States**: Provides a regional breakdown of consumer interest in various product types across Australian states.
 
 ## How to Access the Dashboard
 1. Download the `.pbix` file from this repository: [BeautyHealthMarketAnalysis.pbix](BeautyHealthMarketAnalysis.pbix).
