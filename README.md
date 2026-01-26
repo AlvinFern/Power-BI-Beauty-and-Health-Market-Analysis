@@ -1,4 +1,4 @@
-# Power-BI-Beauty-and-Health-Market-Analysis
+# Power-BI-Beauty and Health Market Analysis
 
 # Executive Summary
 This project analyzes the emerging "Wellness-Beauty" market in Australia, focusing on three niche segments: Cosmeceuticals (medical skincare), Nutricosmetics (beauty supplements), and Nutraceuticals (health supplements). Using Power BI, we transformed raw Excel data into a strategic tool to help brands understand where the money is moving.
