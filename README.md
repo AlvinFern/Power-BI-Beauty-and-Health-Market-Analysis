@@ -33,7 +33,9 @@ As the Australian beauty market evolves, the lines between "Health" and "Beauty"
 To use data to define these niche markets, understand which demographics are spending most, and determine whether consumer "interest" actually translates into "confidence" and "recommendation."
 
 # Technical Toolkit
+
 • Data Manipulation: Excel (Data cleaning, normalization of demographic categories).
+
 • Data Visualization: Power BI (Interactive Dashboards, DAX measures, custom filtering).
 
 
