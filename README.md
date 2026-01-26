@@ -116,8 +116,7 @@ The Power BI dashboard was designed for executive-level drill-downs:
 
 • Dual-Axis Sentiment Chart: Tracks "Average Confidence" (Bars) against "Recommendation Score" (Line) to identify which products are trusted versus which are just popular.
 
-<img width="1190" height="671" alt="image" src="https://github.com/user-attachments/assets/3f7d1ef2-1521-4f52-b81a-f6e95ad5192d" />
-
+<img width="1197" height="672" alt="image" src="https://github.com/user-attachments/assets/12090174-5007-4f63-8eca-43130eab266c" />
 
 
 ## How to Access the Dashboard
