@@ -46,8 +46,17 @@ The data used for this analysis was sourced from an **Excel dataset** containing
 - **Demographic Information**: Data on customer demographics including age, gender, and state of residence.
 
 
-## Key Insights
-1. **Nutraceuticals and Nutricosmetics are the Most Popular**: A significant number of consumers show a preference for nutraceuticals and nutricosmetics compared to cosmeceuticals.
+## Insights & Analysis
+
+**1. Regional Dominance (State-Wise Analysis)**
+
+The "Product Type Interest by Different States" chart shows a clear regional winner:
+
+‣ New South Wales shows a massive spike in Nutraceuticals interest (nearly 40 consumers).
+
+‣ Queensland leads in interest for Cosmeceuticals, suggesting a higher demand for topical skincare in warmer climates.
+
+‣ Victoria and Western Australia show very balanced interest across all categories, making them ideal "test markets" for new product launches.
 
 ![image](https://github.com/user-attachments/assets/8d86960b-b3fe-459c-bb01-65dc14b553e5)
    
